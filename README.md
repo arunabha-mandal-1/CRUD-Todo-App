@@ -5,8 +5,10 @@
 <p id="description">A todo app consists of two different types of todos - locally available which are created by user and fetched from a dummy API.</p>
 
 <h2>🚀 Demo</h2>
+<p><a href="https://drive.google.com/file/d/1fulvY9Qtoz-Lq48AM-EccYi_OTqqPXwR/preview" target="_blank">Drive Link for Demo Video</a></p>
 
-<iframe src="https://drive.google.com/file/d/1fulvY9Qtoz-Lq48AM-EccYi_OTqqPXwR/preview" width="640" height="360" allow="autoplay"></iframe>
+https://github.com/user-attachments/assets/5446e98f-61dd-48f8-9fc3-004e82002302
+
 
 <h2>Project Screenshots:</h2>
 
